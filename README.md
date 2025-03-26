@@ -22,15 +22,4 @@ A **modern, interactive Tic-Tac-Toe** game built using **HTML, CSS, and JavaScri
 ✅ **Interactive Background Animation** – Engaging particle effect  
 ✅ **Responsive Design** – Works across all screen sizes
 
----
-
-## 📂 Project Setup
-
-### 1️⃣ Clone the Repository
-
-git clone https://github.com/Bhavarth23/Tic_Tac_Toe.git
-
-**Contributing**
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
 📩 Contact: [bhavarth.kotasthane@gmail.com]
