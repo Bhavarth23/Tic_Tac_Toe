@@ -1,4 +1,6 @@
-# 🎮 Tic-Tac-Toe
+**README**
+
+# 🎮 A simple Tic-Tac-Toe game
 
 A **modern, interactive Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. This project features a **visually appealing UI, animated background, and intuitive gameplay mechanics**.
 
